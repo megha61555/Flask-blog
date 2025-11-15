@@ -1,0 +1,40 @@
+body {
+    font-family: Arial, sans-serif;
+    background: #f9f9f9;
+    margin: 0;
+    padding: 0;
+}
+
+nav {
+    background: #333;
+    padding: 1em;
+}
+
+nav a {
+    color: #fff;
+    margin-right: 1em;
+    text-decoration: none;
+}
+
+.container {
+    width: 80%;
+    margin: 2em auto;
+    background: #fff;
+    padding: 2em;
+    box-shadow: 0 0 10px #ccc;
+}
+
+.post h2 {
+    margin: 0;
+}
+.post a {
+    color: #333;
+    text-decoration: none;
+}
+img {
+    display: block;
+    margin-top: 10px;
+}
+a {
+    margin-right: 10px;
+}
